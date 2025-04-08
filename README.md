@@ -1,4 +1,4 @@
-#Highlight Extractor
+## Highlight Extractor
 
 This project is an AI-powered pipeline for automatically extracting potential highlight clips from **Marvel Rivals** gameplay footage. It uses audio-based spike detection to identify exciting moments (like shouting or hype reactions) and slices the video into short clips around those timestamps.
 
