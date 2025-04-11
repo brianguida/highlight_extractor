@@ -7,7 +7,7 @@ import json
 import matplotlib.pyplot as plt
 
 #Temporary config for testing
-VIDEO_PATH = "Grez_hits_pl3.mp4"
+VIDEO_PATH = "MJ_hits_go3_s1_5.mp4"
 OUTPUT_JSON = "spike_timestamps.json"
 THRESHOLD = 0.04
 

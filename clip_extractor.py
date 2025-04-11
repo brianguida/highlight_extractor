@@ -5,8 +5,8 @@ import os
 from moviepy.editor import VideoFileClip
 
 #temporary config
-VIDEO_PATH = "Grez_hits_pl3.mp4"
-TIMESTAMPS_FILE = "spike_timestamps.json"
+VIDEO_PATH = "MJ_hits_go3_s1_5.mp4"
+TIMESTAMPS_FILE = "highlight_timestamps.json"
 OUTPUT_DIR = "highlights"
 CLIP_LENGTH = 10
 
